@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a student based in the UK currently studying for A levels in Computer Science, Maths and Physics
+
+- Currently working on my A level coursework: a website to track prices of products on online retailers using python webscraping with dash and plotly for the UI elements. 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=A14x)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **A14x/A14x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
